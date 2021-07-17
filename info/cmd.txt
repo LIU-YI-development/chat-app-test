@@ -1,0 +1,7 @@
+client side
+npx create-react-app ./
+npm i --save react-router socket.io-client react-scroll-to-bottom react-emoji query-string
+
+server side
+npm init -y
+npm i --save cors nodemon express socket.io
